@@ -5,4 +5,5 @@ Data Analysis project to help **Chinook Digital Music Store** to help how they c
 + PostgreSQL
 + pgAdmin4
 
-[credit to](https://github.com/lerocha/chinook-database/wiki/Chinook-Schema)
+[schema credit to](https://github.com/lerocha/chinook-database/wiki/Chinook-Schema)
+![schema](https://raw.githubusercontent.com/ptyadana/data-analysis-digital-music-store/master/ChinookSchema.png)
